@@ -1,2 +1,3 @@
 # CLEANCORDd
-Clean BetterDiscord Theme
+Clean dark Discord Theme for BetterDiscord
+
