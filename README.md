@@ -1,2 +1,2 @@
-# CLEANCORD
+# CLEANCORDd
 Clean BetterDiscord Theme
